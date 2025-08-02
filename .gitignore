@@ -1,0 +1,7 @@
+# Shell script temporary files
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+*.out

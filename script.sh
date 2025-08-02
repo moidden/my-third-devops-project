@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Welcome to My Third DevOps Project!"
+echo "My Third DevOps Project is getting better!"
